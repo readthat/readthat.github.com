@@ -1,5 +1,6 @@
 require(['jquery'],function($) {
 
-	speak('Hello');
+	//Welcome message, because we all love autoplay sounds on websites
+	speak('Welcome to read that github.');
 
 });
